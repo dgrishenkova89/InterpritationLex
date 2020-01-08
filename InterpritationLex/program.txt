@@ -1,6 +1,6 @@
 program {   
   int j = 6, k; 
  
-  k = ( i + j ) * 2;  // ERROR – нет описания переменной i
+  k = ( i + j ) * 2;  // ERROR – нет описания переменной i - not declared
   write ("ERROR not detected");
 } 
