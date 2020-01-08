@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ParserLex.cpp
+c:\users\dasha\documents\visual studio 2017\projects\interpritationlex\interpritationlex\parserlex.cpp(113): warning C4101: 'pl3': unreferenced local variable
+  InterpritationLex.cpp
+  Interpretator.cpp
+  Executer.cpp
+c:\users\dasha\documents\visual studio 2017\projects\interpritationlex\interpritationlex\executer.cpp(16): warning C4101: 'lastLex': unreferenced local variable
+  AnalizerLex.cpp
+  Generating Code...
+  InterpritationLex.vcxproj -> C:\Users\Dasha\Documents\Visual Studio 2017\Projects\InterpritationLex\Debug\InterpritationLex.exe
